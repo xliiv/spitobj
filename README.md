@@ -23,7 +23,7 @@ closed-source, simple project.
 
 > This project looks like a shit, how do I install it?
 
-`pip install git+https://github.com/xliiv/spitobj`
+`pip install spitobj`
 
 > This project is a shit, how do I use it?
 
