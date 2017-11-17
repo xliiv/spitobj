@@ -14,7 +14,7 @@ setup(
     description="Spitobj - fake data object initialization",
     long_description=long_description,
     license="MIT",
-    version="0.1.0",
+    version="1.0.0",
     author="xliiv",
     author_email="tymoteusz.jankowski@gmail.com",
     maintainer="xliiv",
